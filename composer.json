@@ -1,5 +1,5 @@
 {
-  "name": "swoft/http-server",
+  "name": "swoft-fork/http-server",
   "type": "library",
   "version": "v2.0.11",
   "keywords": [
@@ -8,12 +8,12 @@
     "swoft"
   ],
   "description": "swoft http server component",
-  "homepage": "https://github.com/swoft-cloud/swoft-http-server",
+  "homepage": "https://github.com/sky-up/swoft-http-server",
   "license": "Apache-2.0",
   "require": {
-    "swoft/framework": "~2.0.0",
-    "swoft/http-message": "~2.0.0",
-    "swoft/validator": "~2.0.0"
+    "swoft-fork/framework": "~2.0.0",
+    "swoft-fork/http-message": "~2.0.0",
+    "swoft-fork/validator": "~2.0.0"
   },
   "autoload": {
     "psr-4": {
