@@ -16,7 +16,7 @@ Swoft Http Server Component
 - composer command
 
 ```bash
-composer require swoft/http-server
+composer require swoft-fork/http-server
 ```
 
 ## Resources
